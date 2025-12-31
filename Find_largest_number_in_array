@@ -1,0 +1,17 @@
+arr=[120,45,67,90,180]
+#Use the control loop you can iterate through the list and keep track of the largest number found.
+number=arr[0]
+for i in arr:
+   if i > number:
+      number = i
+print(f"The largest number is: {number}")
+
+#Use the max() function in the python 
+number = max(arr)
+print(f"The largest number is: {number}")
+
+#Use the sort function in python
+arr.sort()
+number = arr[-1]
+print(f"The largest number is: {number}")
+
