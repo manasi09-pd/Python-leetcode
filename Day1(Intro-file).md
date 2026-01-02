@@ -1,25 +1,3 @@
-a = 10
-b = 3
-print(a+b)
-print(a-b)
-print(a/b)
-print(a//b)
-print(a%b)
-print(a*b)
-print(a**b)
-
-print('hello world')
-
-
-print(type(10))
-print(type(12.34))
-print(type(1+2j))
-print(type([1,2,2,3]))
-print(type((1,2,3)))
-print(type({'PYTHON':'V1'}))
-print(type({1,2,3}))
-
-
 30 Days of Python — Learning Series
 Day 1: Introduction, Environment Setup, and Python Basics
 This repository documents a structured Python learning journey focused on building strong fundamentals through hands-on practice.
