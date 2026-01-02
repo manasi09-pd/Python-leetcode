@@ -99,4 +99,3 @@ print(type(9.8))
 print(type(["Python", "Day1"]))
 
 Day 1 establishes the foundation required to move forward with more advanced Python concepts.
-If you want next:
